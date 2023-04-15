@@ -1,8 +1,6 @@
-<body style="background-color:aquamarine;">
+<body style="background-color:grey;">
+<h1><center>Allison Crossland</center></h1>
 
-# <h1><center>Allison Crossland</center></h1>
-
-<p style="text-align: center;">Text_content</p>
-
+![](photo.png)
 
 <span style="color:blue">blue *blue* blue</span>
