@@ -1,11 +1,11 @@
-<body style="background-color:DarkSlateGray;">
-<h1><center>Allison Crossland</center></h1>
+<h1 style="font-family:courier;"><center>Allison Crossland</center></h1>
 
-<img src="circular_portrait.png" class="center" width="100" height="100">
+<p align="center">
+  <img src="circular_portrait.png" width="100" height="100"/>
+</p>
 
-<span style="color:blue">hello?
+<a href="https://www.linkedin.com/in/allison-crossland-197a8820b/">LinkedIn</a>
 
+<a href="https://github.com/AllisonCrossland">GitHub</a>
 
-
-
-</span>
+CV
