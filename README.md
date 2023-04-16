@@ -4,8 +4,8 @@
   <img src="circular_portrait.png" width="100" height="100"/>
 </p>
 
+<a href="Crossland_Allison_CV">CV</a>
+
 <a href="https://www.linkedin.com/in/allison-crossland-197a8820b/">LinkedIn</a>
 
 <a href="https://github.com/AllisonCrossland">GitHub</a>
-
-CV
